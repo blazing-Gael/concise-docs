@@ -1,0 +1,11 @@
+{
+  "name": "concise-docs",
+  "owner": { "name": "YOUR_NAME" },
+  "plugins": [
+    {
+      "name": "concise-docs",
+      "source": "./",
+      "description": "Short, scannable, actionable docs / comments / explanations — no bloat."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "concise-docs",
+  "description": "Makes Claude write short, scannable, actionable docs, comments, and explanations — kills bloat, hedging, and over-explanation.",
+  "version": "1.0.0",
+  "author": { "name": "YOUR_NAME" },
+  "homepage": "https://github.com/YOUR_GITHUB/concise-docs",
+  "license": "MIT",
+  "keywords": ["documentation", "writing", "concise", "readme", "comments", "style", "adhd"]
+}
