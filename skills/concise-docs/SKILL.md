@@ -17,6 +17,14 @@ Write for a reader who **skims**: a busy engineer, and someone with ADHD. They s
 7. **Deletion test:** if cutting a sentence doesn't change what the reader *does*, cut it.
 8. **Less code, less prose.** Fewer words, fewer lines — always the goal, never "more thorough."
 
+## Make it scannable (ADHD-friendly)
+- **Bold the key term first** so the eye can jump: "**Auth:** tokens expire in 1h."
+- One idea per line. A list of short lines beats a dense sentence.
+- Whitespace between blocks — no wall of text; break every 3-4 lines.
+- Front-load: the word that matters goes first, not buried mid-sentence.
+- Tables for anything with 2+ parallel items (option → what it does).
+- A reader should get the gist from **headings + bold + first lines alone**.
+
 ## Comments in code
 - Few, and **one line each**. Only where the code isn't self-evident — a *why*, a gotcha, or an integration seam.
 - Never narrate what the code plainly says. Reduce LOC.

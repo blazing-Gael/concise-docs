@@ -8,7 +8,7 @@ It triggers automatically when Claude is writing prose — a README, usage/API g
 
 **As a plugin (recommended):**
 ```
-/plugin marketplace add YOUR_GITHUB/concise-docs
+/plugin marketplace add blazing-Gael/concise-docs
 /plugin install concise-docs@concise-docs
 ```
 
